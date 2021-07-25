@@ -1,4 +1,5 @@
 # Translator
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 This app will allow the user to translate text between many different encoding systems. It will also allow the user to contruct Unicode test strings for translation, allow the user to open a file and copy the contents for tanslation. There is also a useful ASCII table.
 
