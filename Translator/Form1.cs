@@ -167,5 +167,7 @@ namespace Translator
             wbrwsr_bitwise.Dispose();
             Dispose();
         }
+
+       
     }
 }
